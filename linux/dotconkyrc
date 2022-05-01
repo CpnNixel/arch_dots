@@ -1,7 +1,3 @@
---[[
-Conky, a system monitor, based on torsmo
-]]
-
 conky.config = {
     alignment = 'top_right',
     background = false,
