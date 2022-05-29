@@ -354,4 +354,3 @@ alias empty='sudo rm -rf /home/nixel549/.local/share/Trash/files'
 alias checkupdates="checkupdates && pacman -Qm"
 #pacman -Rns
 eval "$(starship init bash)"
-#eval "$(starship init zsh)"
