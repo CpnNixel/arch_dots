@@ -62,4 +62,3 @@ $color2${execpi 300 curl wttr.in/Pervomaiskyi?T0 --silent --max-time 3}
 $color2${exec tb}
 ]]
  
-
