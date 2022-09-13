@@ -18,7 +18,7 @@
 | [Rofi](https://github.com/davatorium/rofi)          | A window switcher, application launcher and dmenu replacement |
 | [Polybar](https://github.com/polybar/polybar)       | A fast and easy-to-use status bar                            |
 | [Zathura](https://git.pwmt.org/pwmt/zathura)        | A highly customizable document viewer with vi-styled  bindings |
-| Comic Code](https://tosche.net/fonts/comic-code)      | Comic Code Ligatures is a monospaced adaptation of the most infamous yet most popular casual font |
+| [Comic Code](https://tosche.net/fonts/comic-code)      | Comic Code Ligatures is a monospaced adaptation of the most infamous yet most popular casual font |
 | [Operator Mono](https://github.com/keyding/Operator-Mono) | Family of fixed-width typefaces, with a broader range of weights than a typical typewriter face |
 
 
