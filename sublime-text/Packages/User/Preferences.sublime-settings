@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/Theme - Cyanide/Twilightcyanide.tmTheme",
+	"font_size": 11,
+	"theme": "Cyanide - Golden.sublime-theme",
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+}
