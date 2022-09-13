@@ -7,6 +7,8 @@
 ## 📦 Main Packages
 | Name                                                | Description                                                  |
 | --------------------------------------------------- | :----------------------------------------------------------- |
+| [Arch](https://github.com/archlinux)                | Independently developed, x86-64 general-purpose GNU/Linux distribution |
+| [Grub](https://github.com/coreos/grub)              | GRand Unified Bootloader                                     |
 | [Kitty](https://github.com/kovidgoyal/kitty)        | Cross-platform, fast, feature-rich, GPU based terminal       |
 | [Starship](https://github.com/starship/starship)    | The minimal, blazing-fast, and infinitely customizable prompt for any shell! |
 | [Nushell](https://github.com/nushell/nushell)       | A new type of shell                                          |
