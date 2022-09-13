@@ -13,7 +13,7 @@
 | [Rofi](https://github.com/davatorium/rofi)          | Rofi: A window switcher, application launcher and dmenu replacement |
 | [Polybar](https://github.com/polybar/polybar)       | A fast and easy-to-use status bar                            |
 | [Zathura](https://git.pwmt.org/pwmt/zathura)        | A highly customizable document viewer with vi-styled  bindings |
-| [FONT)(https://tosche.net/fonts/comic-code)         | Comic Code is a monospaced adaptation of the most infamous yet most popular casual font |
+| [FONT](https://tosche.net/fonts/comic-code)         | Comic Code is a monospaced adaptation of the most infamous yet most popular casual font |
 
 
 💜 Inspired by [r/unixporn](https://www.reddit.com/r/unixporn/) and [jamibear](https://github.com/jamibear) [rice](https://github.com/jamibear/.rice)
