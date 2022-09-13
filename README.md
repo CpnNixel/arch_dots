@@ -12,7 +12,8 @@
 | [Kitty](https://github.com/kovidgoyal/kitty)        | Cross-platform, fast, feature-rich, GPU based terminal       |
 | [Starship](https://github.com/starship/starship)    | The minimal, blazing-fast, and infinitely customizable prompt for any shell! |
 | [Nushell](https://github.com/nushell/nushell)       | A new type of shell                                          |
-| [Bspwm](https://github.com/baskerville/bspwm)       | A tiling window manager based on binary space partitioning   |
+| [bspwm](https://github.com/baskerville/bspwm)       | A tiling window manager based on binary space partitioning   |
+| [sxhkd](https://github.com/baskerville/sxhkd)       | Simple X hotkey daemon                                       |
 | [Picom](https://github.com/yshui/picom)             | A lightweight compositor for X11                             |
 | [Rofi](https://github.com/davatorium/rofi)          | A window switcher, application launcher and dmenu replacement |
 | [Polybar](https://github.com/polybar/polybar)       | A fast and easy-to-use status bar                            |
