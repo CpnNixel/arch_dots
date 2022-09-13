@@ -6,7 +6,7 @@
 | Name                                                | Description                                                  |
 | --------------------------------------------------- | :----------------------------------------------------------- |
 | [Kitty](https://github.com/kovidgoyal/kitty)        | Cross-platform, fast, feature-rich, GPU based terminal       |
-| [Starship](https://github.com/starship/starship)    | cometmilky_way The minimal, blazing-fast, and infinitely customizable prompt for any shell! |
+| [Starship](https://github.com/starship/starship)    | The minimal, blazing-fast, and infinitely customizable prompt for any shell! |
 | [Nushell](https://github.com/nushell/nushell)       | A new type of shell                                          |
 | [Bspwm](https://github.com/baskerville/bspwm)       | A tiling window manager based on binary space partitioning   |
 | [Picom](https://github.com/yshui/picom)             | A lightweight compositor for X11                             |
