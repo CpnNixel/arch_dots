@@ -8,7 +8,9 @@ xsetroot -cursor_name left_ptr &
 setxkbmap -model pc105 -layout us,ru -variant qwerty -option grp:alt_shift_toggle
 bspc monitor -d I II III IV V VI
 #conky &
+sh ~/Content/Wallpapers/wallpaper.sh &
 
+#feh --bg-fill --randomize ~/Content/Wallpapers/unsigned/*
 polybar &
 
 
