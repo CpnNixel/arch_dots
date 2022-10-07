@@ -10,7 +10,7 @@ bspc monitor -d I II III IV V VI
 #conky &
 #sh ~/Content/Wallpapers/wallpaper.sh &
 #bg-scale
-feh --bg-scale --randomize ~/Content/Wallpapers/unsigned/*
+feh --bg-scale --randomize ~/Content/Images/Wallpapers/unsigned/*
 polybar &
 spotify-listener &
 disown
