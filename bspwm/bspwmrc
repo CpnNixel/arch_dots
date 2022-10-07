@@ -8,11 +8,12 @@ xsetroot -cursor_name left_ptr &
 setxkbmap -model pc105 -layout us,ru -variant qwerty -option grp:alt_shift_toggle
 bspc monitor -d I II III IV V VI
 #conky &
-sh ~/Content/Wallpapers/wallpaper.sh &
-
-#feh --bg-fill --randomize ~/Content/Wallpapers/unsigned/*
+#sh ~/Content/Wallpapers/wallpaper.sh &
+#bg-scale
+feh --bg-scale --randomize ~/Content/Wallpapers/unsigned/*
 polybar &
-
+spotify-listener &
+disown
 
 bspc config border_width         0
 bspc config window_gap          11
@@ -62,6 +63,7 @@ bspc rule -a telegram-desktop follow=on focus=on rectangle=420x900+1450+90 deskt
 bspc rule -a vscodium follow=on focus=on desktop='^2'
 
 bspc rule -a spotify follow=on focus=ondesktop='^3'
+bspc rule -a naulius follow=on focus=ondesktop='^2'
 bspc rule -a subl follow=on focus=on desktop='^3'
 bspc rule -a sublime-text-4 follow=on focus=on desktop='^3'
 

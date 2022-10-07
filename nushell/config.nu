@@ -507,16 +507,14 @@ def greet [name: string] {
 echo "hello " $name | str collect
 }
 
-def swapfile [
-path1: string
-path2: string  
-] {
-  mv $path1 "start"
-  mv $path2 $path1
-  mv "start" $path2
-rm -rf "start"
-echo "hello " $path1 $path2 | str collect
-}
+alias weather = (curl --silent  wttr.in/Pervomaiskyi?T0)
+alias weather2 = (curl -s wttr.in/Pervomaiskyi?T1)
+alias weather3 = (curl -s wttr.in/Pervomaiskyi?T3)
+alias claer = (clear)
+alias clare = (clear)
+alias empty = (rm -rf ~/.local/share/Trash/files/)
+alias ls1 = (ls | sort-by modified -r | sort-by type)
 
 neofetch
 source ~/.cache/starship/init.nu
+
