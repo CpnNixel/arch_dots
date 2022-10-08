@@ -1,5 +1,17 @@
 {
-    "workbench.colorTheme": "orbi",
     "editor.fontFamily": "'Comic Code Ligatures', 'monospace', monospace",
     "editor.fontLigatures": true,
+    "files.exclude": {
+        "**/.vs": true,
+        "**/.vscode": true,
+        "**/bin": true,
+        "**/obj": true
+    },
+    "workbench.iconTheme": "vscode-icons",
+    "launch": {
+    
+        "configurations": [],
+        "compounds": []
+    },
+    "workbench.colorTheme": "Sequoia Moonlight"
 }
