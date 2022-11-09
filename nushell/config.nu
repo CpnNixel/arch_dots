@@ -510,10 +510,15 @@ echo "hello " $name | str collect
 alias weather = (curl --silent  wttr.in/Pervomaiskyi?T0)
 alias weather2 = (curl -s wttr.in/Pervomaiskyi?T1)
 alias weather3 = (curl -s wttr.in/Pervomaiskyi?T3)
+
 alias claer = (clear)
 alias clare = (clear)
 alias empty = (rm -rf ~/.local/share/Trash/files/)
 alias ls1 = (ls | sort-by modified -r | sort-by type)
+
+alias tb = (taskbook)
+alias todo = (taskbook)
+alias td = (taskbook)
 
 neofetch
 source ~/.cache/starship/init.nu

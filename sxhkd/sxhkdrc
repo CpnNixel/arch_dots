@@ -98,6 +98,9 @@ super + bracket{left,right}
 alt + Tab
 	bspc desktop -f {next}.occupied.local
 
+ctrl + alt + Tab
+	bspc desktop -f {prev}.occupied.local
+
 # focus the last node/desktop
 super + {grave,Tab}
 	bspc {node,desktop} -f last
